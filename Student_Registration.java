@@ -394,7 +394,7 @@ public class Student_Registration extends JFrame {
         fr.setVisible(true);
         fr.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
         fr.setTitle("New Frame");
-        //fr.setResizable(false);
+        
 
     }
 
